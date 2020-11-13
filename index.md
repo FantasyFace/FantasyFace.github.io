@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Tổng hợp
 
-You can use the [editor on GitHub](https://github.com/FantasyFace/FantasyFace.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- [Trello nhóm](https://trello.com/invite/b/0JMn3G5J/fe981e03cf3fc4aa5820c27de44dbfda/lu%E1%BA%ADn-v%C4%83n-ch%E1%BB%A5p-%E1%BA%A3nh-gi%E1%BA%A3i-tr%C3%AD)
+- [Gitlab repo](https://gitlab.com/nk-hcmus/magiccam)
+- [Google Drive chứa các sản phẩm của luận văn](https://drive.google.com/drive/folders/1w9QIWaxLMInLclIj0cKc5DtLDarkOuU7?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Cập nhật quá trình
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 28/10/2020
 
-```markdown
-Syntax highlighted code block
+- [Fantasy Face v01.apk](assets/2020-10-28/fantasy-face-v01.apk)
 
-# Header 1
-## Header 2
-### Header 3
+- [Gender classification Server v01](assets/2020-10-28/gender-classification-server-master.zip)
 
-- Bulleted
-- List
+- [Preprocess face Server v01](assets/2020-10-28/preprocess-face-server-master.zip)
 
-1. Numbered
-2. List
+- [Stargan-v2 v01](assets/2020-10-28/stargan-v2.rar)
 
-**Bold** and _Italic_ and `Code` text
+- [Release note](assets/2020-10-28/release_note.txt)
 
-[Link](url) and ![Image](src)
-```
+## 14/10/2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Đề cương khóa luận v1.0](assets/2020-10-14/De_Cuong_Chup_Anh_Giai_Tri.pdf)
 
-### Jekyll Themes
+- [Release note](assets/2020-10-14/release_note.txt) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FantasyFace/FantasyFace.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 07/10/2020
 
-### Support or Contact
+- [Đề cương khóa luận v0.2](assets/2020-10-07/De_Cuong_Luan_Van.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Release note](assets/2020-10-07/release_note.txt)
+
+## 30/09/2020
+
+- [Slide đề cương khóa luận](assets/2020-09-30/De_Cuong_Khoa_Luan.pptx)
+
+- [Release note](assets/2020-09-30/release_note.txt)
