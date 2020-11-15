@@ -12,7 +12,7 @@
 
 - Chương 5 luận văn [[docx]](assets/2020-11-15/Chuong_5.docx)
 
-- [Release note]()
+- [Release note](assets/2020-11-15/release_note.txt)
 
 ## 06/11/2020
 
