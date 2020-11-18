@@ -2,7 +2,7 @@
 
 - [Trello nhóm](https://trello.com/invite/b/0JMn3G5J/fe981e03cf3fc4aa5820c27de44dbfda/lu%E1%BA%ADn-v%C4%83n-ch%E1%BB%A5p-%E1%BA%A3nh-gi%E1%BA%A3i-tr%C3%AD)
 - [Google Drive chứa các sản phẩm của luận văn](https://drive.google.com/drive/folders/1w9QIWaxLMInLclIj0cKc5DtLDarkOuU7?usp=sharing)
-
+- [Product backlog](https://docs.google.com/spreadsheets/d/1wIwVro84o920R1PBGhHlas9PnSDgiBzK2wBQR484OaM/edit?usp=sharing)
 
 # Cập nhật quá trình
 
