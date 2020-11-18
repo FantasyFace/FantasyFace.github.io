@@ -6,6 +6,10 @@
 
 # Cập nhật quá trình
 
+## 18/11/2020
+
+- Một số khái niệm chương 2 [[docx]](assets/2020-11-18/Liet_Ke_Khai_Niem_Chuong2.docx)
+
 ## 15/11/2020
 
 - Chương 1 luận văn [[docx]](assets/2020-11-15/Chuong_1.docx)
