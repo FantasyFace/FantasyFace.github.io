@@ -8,9 +8,11 @@
 
 ## 21/11/2020
 
-- Một số khái niệm chương 2 [[docx]](assets/2020-11-18/Liet_Ke_Khai_Niem_Chuong2.docx)
+- Một số khái niệm chương 2 [[docx]](assets/2020-11-21/Liet_Ke_Khai_Niem_Chuong2.docx)
 
 - StarGAN-v2 v0.1 [[Source]](https://github.com/FantasyFace/stargan-v2/archive/v0.1.zip) [[Docker]](https://hub.docker.com/r/ocula/trutergypt/tags) [[Google Cloud Run]](https://cencla-txoier25qa-as.a.run.app)
+
+- [Release note](assets/2020-11-21/release_note.txt)
 
 ## 15/11/2020
 
