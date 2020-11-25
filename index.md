@@ -6,6 +6,12 @@
 
 # Cập nhật quá trình
 
+## 25/11/2020
+
+- Fantasy Face v0.1.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.1.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1.1/fantasy-face.apk)
+
+- [Release note](assets/2020-11-25/release_note.txt)
+
 ## 21/11/2020
 
 - Một số khái niệm chương 2 [[docx]](assets/2020-11-21/Liet_Ke_Khai_Niem_Chuong2.docx)
