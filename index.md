@@ -6,6 +6,20 @@
 
 # Cập nhật quá trình
 
+## 02/12/2020
+
+- Fantasy Face v0.1.2 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.2.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1.2/fantasy-face.apk)
+
+- Chương 1 luận văn [[pdf]](assets/2020-12-02/Luan_Van_Chup_Anh_Giai_Tri_Chuong_1.pdf)
+
+- Chương 2 luận văn [[pdf]](assets/2020-12-02/Luan_Van_Chup_Anh_Giai_Tri_Chuong_2.pdf)
+  
+- Chương 3 luận văn [[pdf]](assets/2020-12-02/Luan_Van_Chup_Anh_Giai_Tri_Chuong_3.pdf)
+
+- Chương 5 luận văn [[pdf]](assets/2020-12-02/Luan_Van_Chup_Anh_Giai_Tri_Chuong_5.pdf)
+
+- [Release note](assets/2020-12-02/release_note.txt)
+
 ## 25/11/2020
 
 - Fantasy Face v0.1.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.1.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1.1/fantasy-face.apk)
