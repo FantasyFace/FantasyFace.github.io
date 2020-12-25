@@ -6,7 +6,7 @@
 
 # Cập nhật quá trình
 
-# 25/12/2020
+## 25/12/2020
 
 - Chương 2 luận văn [[pdf]](assets/2020-12-25/Luan_Van_Chup_Anh_Giai_Tri_Chuong_2.pdf)
   
