@@ -8,9 +8,9 @@
 
 ## 10/01/2021
 
-- Chương 2 luận văn [[pdf]](assets/2020-01-10/Luan_Van_Chup_Anh_Giai_Tri_Chuong_2.pdf)
+- Chương 2 luận văn [[pdf]](assets/2021-01-10/Luan_Van_Chup_Anh_Giai_Tri_Chuong_2.pdf)
   
-- Chương 3 luận văn [[pdf]](assets/2020-01-10/Luan_Van_Chup_Anh_Giai_Tri_Chuong_3.pdf)
+- Chương 3 luận văn [[pdf]](assets/2021-01-10/Luan_Van_Chup_Anh_Giai_Tri_Chuong_3.pdf)
 
 - [Release note](assets/2021-01-10/release_note.txt)
 
