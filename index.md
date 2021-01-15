@@ -8,7 +8,7 @@
 
 ## 15/01/2021
 
-- Fantasy Face v0.1.2 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v1.0.0.zip) [[APK arm64]](releases/v1.0.0/fantasy-face-arm64-v8a.apk) [[APK armeabi]](releases/v1.0.0/fantasy-face-armeabi-v7a.apk) [[APK x86]](releases/v1.0.0/fantasy-face-x86.apk)
+- Fantasy Face v1.0.0 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v1.0.0.zip) [[APK arm64]](releases/v1.0.0/fantasy-face-arm64-v8a.apk) [[APK armeabi]](releases/v1.0.0/fantasy-face-armeabi-v7a.apk) [[APK x86]](releases/v1.0.0/fantasy-face-x86.apk)
 
 ## 10/01/2021
 
