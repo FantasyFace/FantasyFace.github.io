@@ -6,6 +6,10 @@
 
 # Cập nhật quá trình
 
+## 15/01/2021
+
+- Fantasy Face v0.1.2 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v1.0.0.zip) [[APK arm64]](releases/v1.0.0/fantasy-face-arm64-v8a.apk) [[APK armeabi]](releases/v1.0.0/fantasy-face-armeabi-v7a.apk) [[APK x86]](releases/v1.0.0/fantasy-face-x86.apk)
+
 ## 10/01/2021
 
 - Chương 2 luận văn [[pdf]](assets/2021-01-10/Luan_Van_Chup_Anh_Giai_Tri_Chuong_2.pdf)
@@ -24,7 +28,7 @@
 
 ## 02/12/2020
 
-- Fantasy Face v0.1.2 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.2.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1.2/fantasy-face.apk)
+- Fantasy Face v0.1.2 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.2.zip) [[APK]](releases/v0.1.2/fantasy-face.apk)
 
 - Chương 1 luận văn [[pdf]](assets/2020-12-02/Luan_Van_Chup_Anh_Giai_Tri_Chuong_1.pdf)
 
@@ -38,7 +42,7 @@
 
 ## 25/11/2020
 
-- Fantasy Face v0.1.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.1.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1.1/fantasy-face.apk)
+- Fantasy Face v0.1.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.1.zip) [[APK]](releases/v0.1.1/fantasy-face.apk)
 
 - [Release note](assets/2020-11-25/release_note.txt)
 
@@ -70,7 +74,7 @@
 
 ## 28/10/2020
 
-- Fantasy Face v0.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.zip) [[APK]](https://github.com/FantasyFace/fantasyface-android/releases/download/v0.1/fantasy-face.apk)
+- Fantasy Face v0.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v0.1.zip) [[APK]](releases/v0.1/fantasy-face.apk)
 
 - Gender classifier v0.1 [[Source]](https://github.com/FantasyFace/gender-classification-server/archive/v0.1.zip)
 
