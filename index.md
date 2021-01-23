@@ -6,6 +6,12 @@
 
 # Cập nhật quá trình
 
+## 23/01/2021
+
+- Fantasy Face v1.0.1 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v1.0.1.zip) [[apk]](releases/v1.0.1/app-universal-release.apk) [[aab]](releases/v1.0.1/app-release.aab)
+
+- [Release note](assets/2021-01-23/release_note.txt)
+
 ## 15/01/2021
 
 - Fantasy Face v1.0.0 [[Source]](https://github.com/FantasyFace/fantasyface-android/archive/v1.0.0.zip) [[APK arm64]](releases/v1.0.0/fantasy-face-arm64-v8a.apk) [[APK armeabi]](releases/v1.0.0/fantasy-face-armeabi-v7a.apk) [[APK x86]](releases/v1.0.0/fantasy-face-x86.apk)
