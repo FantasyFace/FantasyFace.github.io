@@ -4,6 +4,9 @@
 - [Google Drive chứa các sản phẩm của luận văn](https://drive.google.com/drive/folders/1w9QIWaxLMInLclIj0cKc5DtLDarkOuU7?usp=sharing)
 - [Product backlog](https://docs.google.com/spreadsheets/d/1wIwVro84o920R1PBGhHlas9PnSDgiBzK2wBQR484OaM/edit?usp=sharing)
 
+
+<a href='https://play.google.com/store/apps/details?id=hcmus.nk.fantasyface&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
+
 # Cập nhật quá trình
 
 ## 23/01/2021
