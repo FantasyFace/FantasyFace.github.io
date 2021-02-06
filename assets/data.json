@@ -1,11 +1,11 @@
 [
     {
-        "id": "01020",
-        "name": "Some fx name",
-        "desc": "Male to female",
-        "urlThumb": "https://FantasyFace.github.io/assets/thumbnail/1612454821287.jpg",
+        "id": "00010",
+        "name": "Male",
+        "desc": "Female to male",
+        "urlThumb": "https://FantasyFace.github.io/assets/thumbnail/1612454844915.jpg",
         "urlRef": "https://FantasyFace.github.io/assets/refs/00010.jpg",
-        "gender": "female",
-        "forGender": "male"
+        "gender": "male",
+        "forGender": "female"
     }
 ]
