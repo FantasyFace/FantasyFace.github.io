@@ -94,7 +94,7 @@
         "name": "Aged 2",
         "desc": "Male age",
         "urlThumb": "https://FantasyFace.github.io/assets/thumbnail/1612454880342.jpg",
-        "urlRef": "https://FantasyFace.github.io/assets/refs/man-5917529_01.jpg",
+        "urlRef": "https://FantasyFace.github.io/assets/refs/man-5917529_01.png",
         "gender": "male",
         "forGender": "male"
     },
@@ -103,7 +103,7 @@
         "name": "Bald 2",
         "desc": "Male bald",
         "urlThumb": "https://FantasyFace.github.io/assets/thumbnail/1612454876405.jpg",
-        "urlRef": "https://FantasyFace.github.io/assets/refs/man-1690965_01.jpg",
+        "urlRef": "https://FantasyFace.github.io/assets/refs/man-1690965_01.png",
         "gender": "male",
         "forGender": "male"
     },
@@ -112,7 +112,7 @@
         "name": "Aged 3",
         "desc": "Male age",
         "urlThumb": "https://FantasyFace.github.io/assets/thumbnail/1612454868543.jpg",
-        "urlRef": "https://FantasyFace.github.io/assets/refs/man-1283235_01.jpg",
+        "urlRef": "https://FantasyFace.github.io/assets/refs/man-1283235_01.png",
         "gender": "male",
         "forGender": "male"
     }    
